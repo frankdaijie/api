@@ -2,14 +2,14 @@
     "restaurants":[{
 	    "name": "面香八方",
 	    "img": "http://p1.meituan.net/poirichness/menu_11084280_404543765.jpg%40249w_249h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
-	    "weight": "1",
+	    "weight": "3",
 	    "filter": {
 		"weather": {
 		    "code": ["300"],
 		    "temperature": {
 			"high": "100",
-			"low": "-100" 
-		    } 
+			"low": "-100"
+		    }
 		}
 	    }
 	},
@@ -30,7 +30,7 @@
         {
             "name": "我的鱼棠",
             "img": "http://p0.meituan.net/xianfu/32f2d00aae5c301d1dec417f20d1e74736864.jpg%40240w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
-            "weight": "1",
+            "weight": "3",
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -44,7 +44,7 @@
         {
             "name": "春晓春饼",
             "img": "http://qcloud.dpfile.com/pc/vUy-c0F8NgHpjSa6kz6I4UTtkQjyGqmmNEty_xAfkcW1pfE_D9NtmgzKCyAeQrryuoWgh6flEoCpotrIjLoTeQ.jpg",
-            "weight": "1",
+            "weight": "2",
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -58,7 +58,7 @@
         {
             "name": "魏家凉皮",
             "img": "http://qcloud.dpfile.com/pc/FWlqQ7Cdfu-F3yBHNzLjFlDCcUD1UzQP508q8uW4cDa1pfE_D9NtmgzKCyAeQrryuoWgh6flEoCpotrIjLoTeQ.jpg",
-            "weight": "1",
+            "weight": "2",
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -100,7 +100,7 @@
         {
             "name": "B1 Food Court",
             "img": "http://qcloud.dpfile.com/pc/WeNM3R7-kZJAjuLnD5sHeL8jZWLH1fDqn1ERwJpkh_nRYGyP8AybpPZbV1VuhnXg52lfszCzH6kCpIe1c2_41Q.jpg",
-            "weight": "1",
+            "weight": "2",
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -114,7 +114,7 @@
         {
             "name": "顺口溜",
             "img": "http://qcloud.dpfile.com/pc/b9lB-S72BI9tT4idy3le7SoLOhmsZemN9qAGUpJ6OJ2hBeJEmH0HzvKiyU6FAdEguoWgh6flEoCpotrIjLoTeQ.jpg",
-            "weight": "1",
+            "weight": "3",
             "filter": {
                 "weather": {
                     "code": ["300"],
