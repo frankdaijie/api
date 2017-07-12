@@ -103,7 +103,7 @@
             "weight": 2,
             "filter": {
                 "weather": {
-                    "code": ["300"],
+                    "code": [],
                     "temperature": {
                         "high": 100,
                         "low": -100
